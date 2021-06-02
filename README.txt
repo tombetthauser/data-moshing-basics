@@ -1,4 +1,9 @@
-# Data-Moshing Videos is Super Easy! (?)
+--------------------------------------------------
+|                                                |
+|     Data-Moshing Videos is Super Easy! (?)     |
+|                                                |
+--------------------------------------------------
+
 
 Data Moshing apparently means dropping p-frames and glitching the f out of them. It's rad.
 
