@@ -7,7 +7,7 @@ then you can just f-up the videe from the command line like this:
 datamosh output.avi -o moshed-output.avi
 
 then invert the video cause why not?
-ffmpeg -i moshed-output.avi -vf inverted-output.avi
+ffmpeg -i moshed-output.avi -vf negate inverted-output.avi
 
 and boom, you got an f-ed up video
 
